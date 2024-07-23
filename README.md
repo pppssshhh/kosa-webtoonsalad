@@ -10,7 +10,7 @@
 <div id="1"></div>
 
 ## 📌프로젝트 소개
-<img width="1280" alt="제목 없음" src="https://github.com/user-attachments/assets/95aba97b-d419-4443-9b7f-681770bcaef7">
+<img width="1280" alt="제목 없음" src="https://github.com/user-attachments/assets/3d7c34d9-7714-47f8-9262-7f3743d7073b">
 
 <!-- <img width="1280" alt="기획배경" src="https://github.com/user-attachments/assets/19adf54e-e018-4eb3-a3a7-774809b534ad">
 <img width="1280" alt="문제점" src="https://github.com/user-attachments/assets/35a98a0d-f61a-4726-8af1-d506e27a3aff">
