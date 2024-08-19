@@ -109,6 +109,64 @@
 
 <br>
 
+<div id="5"></div>
+
+## 📌 팀 소개
+
+<table>
+  <tr>
+    <td align="center" width="200px">
+      <a href="https://github.com/woodongle" target="_blank">
+        <img src= "https://avatars.githubusercontent.com/u/112540904?v=4" alt="김동혁 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/pppssshhh" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/111171978?v=4" alt="박상현 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/yohan9569" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/88149844?v=4" alt="박요한 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="" target="_blank">
+        <img src="" alt="이혜연 프로필" />
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <a href="https://github.com/woodongle" target="_blank">
+        김동혁<br />
+                팀장
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pppssshhh" target="_blank">
+        박상현<br />
+                팀원
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yohan9569" target="_blank">
+        박요한<br />
+                팀원
+      </a>
+    </td>
+    <td align="center">
+      <a href="" target="_blank">
+        이혜연<br />
+                팀원
+      </a>
+    </td>  
+  </tr>
+</table>
+
+<br>
+
 <div id="6"></div>
 
 ## 📁 폴더 구조
