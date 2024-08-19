@@ -71,6 +71,19 @@
 
 ## 📌 주요 기능
 
+<div style="display: flex;">
+  <img width="1286" alt="메인" src="https://github.com/user-attachments/assets/9543d0e9-1342-47d0-93ec-7fe9d66bb3e5">
+  <img width="1270" alt="회원가입" src="https://github.com/user-attachments/assets/0ef74159-95ba-4587-af6b-0a9d5758f3e0">
+  <img width="1279" alt="로그인" src="https://github.com/user-attachments/assets/bd922a83-c893-496c-95bd-4758fab7c631">
+  <img width="1296" alt="웹툰" src="https://github.com/user-attachments/assets/ba057faa-5380-4999-945b-bcbdd6f7d54a">
+  <img width="1310" alt="한줄평" src="https://github.com/user-attachments/assets/c1eeba43-8d35-458d-959f-d3fdf36d1d1c">
+  <img width="1315" alt="찜" src="https://github.com/user-attachments/assets/e0c0f424-19c1-42f1-90fa-ec7594243b54">
+  <img width="1324" alt="와글와글" src="https://github.com/user-attachments/assets/7a181c0f-73a2-483f-b80d-48785091695a">
+  <img width="1329" alt="와글와글2" src="https://github.com/user-attachments/assets/d0842eb6-9657-41bf-9269-5baf916d1caf">
+  <img width="1333" alt="친구찜꽁" src="https://github.com/user-attachments/assets/dea8d47f-c16c-485b-815c-e37077e1e333">
+  <img width="1328" alt="마이리포트" src="https://github.com/user-attachments/assets/2a3659bd-6d51-41df-a1e8-b48836622d6b">
+</div>
+
 <div id="6"></div>
 
 ## 📁 폴더 구조
