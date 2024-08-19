@@ -131,8 +131,8 @@
       </a>
     </td>
     <td align="center" width="200px">
-      <a href="" target="_blank">
-        <img src="" alt="이혜연 프로필" />
+      <a href="https://github.com/hyl27" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/158022347?v=4" alt="이혜연 프로필" />
       </a>
     </td>
   </tr>
@@ -157,7 +157,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="" target="_blank">
+      <a href="https://github.com/hyl27" target="_blank">
         이혜연<br />
                 팀원
       </a>
