@@ -109,6 +109,14 @@
 
 <br>
 
+<div id="4"></div>
+
+## 📌 아키텍처
+
+![architecture](https://github.com/user-attachments/assets/c5f32be0-9041-4070-ae4f-d15aea3b20e1)
+
+<br>
+
 <div id="5"></div>
 
 ## 📌 팀 소개
